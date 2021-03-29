@@ -1,0 +1,15 @@
+{
+    "name": "ArchNet.Editor.Extension.ReverseMask2D",
+    "references": [
+        "ArchNet.Editor.Extension.Canvas"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
