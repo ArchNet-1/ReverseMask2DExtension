@@ -23,4 +23,4 @@ Put **Reverse Mask 2D Controller** on the overlay's parent and **Reverse Mask 2D
 
 ## License
 
-See [LICENSE.md](LICENSE.md).
+MIT, see [LICENSE.md](LICENSE.md).

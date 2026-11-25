@@ -4,6 +4,7 @@
   "displayName": "ArchNet - Reverse Mask 2D Extension",
   "description": "Darkens the whole UI with an overlay except the elements you highlight, which are drawn above it (tutorials).",
   "unity": "6000.0",
+  "license": "MIT",
   "documentationUrl": "https://archnet-plateform.fr/#ReverseMask2DExtension",
   "changelogUrl": "https://github.com/ArchNet-1/ReverseMask2DExtension/blob/main/CHANGELOG.md",
   "licensesUrl": "https://github.com/ArchNet-1/ReverseMask2DExtension/blob/main/LICENSE.md",
