@@ -1,7 +1,8 @@
 {
-    "name": "ArchNet.Editor.Extension.ReverseMask2D",
+    "name": "ArchNet.Extension.ReverseMask2D",
+    "rootNamespace": "ArchNet.Extension",
     "references": [
-        "ArchNet.Editor.Extension.Canvas"
+        "ArchNet.Extension.Canvas"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

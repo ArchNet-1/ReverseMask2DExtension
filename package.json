@@ -1,20 +1,23 @@
 {
   "name": "com.archnet.extension.reversemask2d",
-  "version": "1.0.0",
-  "displayName": "Arch Net Extension Reverse Mask 2D",
-  "description": "Extension to create and manage a Reverse Mask for 2D gameobject",
-  "unity": "2020.1",
-  "unityRelease": "0b5",
+  "version": "2.0.0",
+  "displayName": "ArchNet - Reverse Mask 2D Extension",
+  "description": "Darkens the whole UI with an overlay except the elements you highlight, which are drawn above it (tutorials).",
+  "unity": "6000.0",
+  "documentationUrl": "https://archnet-plateform.fr/#ReverseMask2DExtension",
+  "changelogUrl": "https://github.com/ArchNet-1/ReverseMask2DExtension/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/ArchNet-1/ReverseMask2DExtension/blob/main/LICENSE.md",
+  "dependencies": {
+    "com.archnet.extension.canvas": "2.0.0"
+  },
   "keywords": [
-    "Arch",
-    "ArchNet",
-    "Extension",
-    "Reverse",
-    "Mask",
-    "Custom"
+    "archnet",
+    "extension",
+    "reversemask2d"
   ],
   "author": {
-    "name": "Arch Net",
-    "email": "archnetmodule@gmail.com"
+    "name": "ArchNet",
+    "email": "archnetmodule@gmail.com",
+    "url": "https://archnet-plateform.fr"
   }
 }
